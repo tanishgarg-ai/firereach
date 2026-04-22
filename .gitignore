@@ -17,12 +17,18 @@ env/
 node_modules/
 dist/
 .cache/
+*.json
+files
+*.db
+*.pdf
+
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+*.docx
 
 # OS
 .DS_Store
